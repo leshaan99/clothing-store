@@ -1,0 +1,2 @@
+# Clothing Store
+This full-stack web application is developed using the MERN stack, offering a complete eCommerce solution. It allows users to browse products, add items to the cart, and manage their accounts with login and registration functionality. The backend features secure APIs to handle product management, cart updates, and user authentication. An admin panel is included to efficiently manage product listings and orders, ensuring smooth communication between the front-end and back-end, and providing an optimized shopping experience for users.
